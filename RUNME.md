@@ -47,5 +47,6 @@ tests/: Automated unit test suites (test_student_work.py).
 
 requirements.txt: Python package dependencies for local or Colab setup.
 
+Expected Runtime: ~50-60 min
 Git Commit hash: 02a524a7eb2b861029d101d63e59f55757ea46e0
 Git Repo: https://github.com/maminian-ucla/PANINI-PROJECT-SUBMISSION.git
