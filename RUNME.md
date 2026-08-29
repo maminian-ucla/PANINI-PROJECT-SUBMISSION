@@ -1,6 +1,4 @@
-from google.colab import files
-
-readme_content = """# PANINI Course Project Submission
+PANINI Course Project Submission
 
 This repository contains the completed code, implementation files, and evaluation notebooks for the **PANINI Structured-Memory Networks and RICR (Retrieval-Informed Chain Recovery)** course project, built upon the template provided by [YigitTurali/panini-course-project](https://github.com/YigitTurali/panini-course-project.git).
 
@@ -48,3 +46,6 @@ panini_course/: Core algorithmic code, including ricr.py for retrieval-informed 
 tests/: Automated unit test suites (test_student_work.py).
 
 requirements.txt: Python package dependencies for local or Colab setup.
+
+Git Commit hash: 02a524a7eb2b861029d101d63e59f55757ea46e0
+Git Repo: https://github.com/maminian-ucla/PANINI-PROJECT-SUBMISSION.git
